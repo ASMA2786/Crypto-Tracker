@@ -1,0 +1,1 @@
+This Crypto Tracker is a Flask app that monitors real-time cryptocurrency prices from various exchanges, stores the data in a database, and sends email alerts when prices hit a set threshold. It features a dashboard for viewing market trends and charts, built using Flask, SQLAlchemy, and Elasticsearch.
